@@ -49,5 +49,5 @@ The following four notebooks were used:
 
 ## Conclusions
 
-
+This report applied XGBoost and LSTM to the problem of station-level hourly bike demand. Both models utilized the New York City Citi Bike bike-sharing and National Oceanic and Atmospheric Administration (NOAA) meteorological data sets from May 1st, 2019 to July 31st, 2019. RMSE, MAE, and R2 were used to compare the performance of the XGBoost and LSTM models. The XGBoost model outperforms the LSTM model in all three metrics. Furthermore, the XGBoost model also better predicts peaks in bike demand, thereby reducing instances of large errors between predicted demand and actual demand. Moreover, reducing these large errors is of particular importance when rebalancing bike fleets.
 
