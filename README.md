@@ -30,7 +30,7 @@ For a local installation, make sure you have
 $ pip install notebook
 ```
 
-The following Python packages are also required: <a href='https://pandas.pydata.org/' target='_blank'>Pandas</a>, <a href='https://numpy.org/' target='_blank'>Numpy</a>, <a href='https://matplotlib.org/' target='_blank'>Matplotlib</a>, <a href='https://seaborn.pydata.org/' target='_blank'>Seaborn</a>, <a href='https://www.scipy.org/' target='_blank'>Scipy</a>, <a href='https://scikit-learn.org/stable/' target='_blank'>Scikit-learn</a>, <a href='https://www.tensorflow.org/' target='_blank'>Tensorflow</a>, <a href='https://xgboost.readthedocs.io/' target='_blank'>XGBoost</a>
+The following Python packages are also required: <a href='https://pandas.pydata.org/' target='_blank'>Pandas</a>, <a href='https://numpy.org/' target='_blank'>Numpy</a>, <a href='https://matplotlib.org/' target='_blank'>Matplotlib</a>, <a href='https://seaborn.pydata.org/' target='_blank'>Seaborn</a>, <a href='https://www.scipy.org/' target='_blank'>Scipy</a>, <a href='https://scikit-learn.org/stable/' target='_blank'>Scikit-learn</a>, <a href='https://www.tensorflow.org/' target='_blank'>Tensorflow</a>, <a href='https://xgboost.readthedocs.io/' target='_blank'>XGBoost</a>.
 
 Next, navigate to the project folder from a terminal and run
 ```sh
