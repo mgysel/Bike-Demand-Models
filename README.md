@@ -20,7 +20,26 @@ The NOAA meteorological data set includes meteorological data for a weather stat
 
 Download the source code from the [master branch](https://github.com/mgysel/COMP3901---ML-Bike-Demand-Models).
 
-Running the code requires Python 3.7.2 and JupyterLab 3.0.14. The following Python packages are also required: Pandas, Numpy, Matplotlib, Seaborn, Scipy, Sklearn, Tensorflow, and XGBoost. 
+Running the code requires Python 3.7.2 and JupyterLab 3.0.14. You can find the installation documentation for
+[JupyterLab](https://jupyter.readthedocs.io/en/latest/install.html).
+
+For a local installation, make sure you have
+[pip installed](https://pip.readthedocs.io/en/stable/installing/) and run:
+
+```sh
+$ pip install notebook
+```
+
+The following Python packages are also required: Pandas, Numpy, Matplotlib, Seaborn, Scipy, Sklearn, Tensorflow, and XGBoost. 
+
+<a href='https://pandas.pydata.org/' target='_blank'>Pandas</a>
+<a href='https://numpy.org/' target='_blank'>Numpy</a>
+<a href='https://matplotlib.org/' target='_blank'>Matplotlib</a>
+<a href='https://seaborn.pydata.org/' target='_blank'>Seaborn</a>
+<a href='https://www.scipy.org/' target='_blank'>Scipy</a>
+<a href='https://scikit-learn.org/stable/' target='_blank'>Scikit-learn</a>
+<a href='https://www.tensorflow.org/' target='_blank'>Tensorflow</a>
+<a href='https://xgboost.readthedocs.io/' target='_blank'>XGBoost</a>
 
 Next, navigate to the project folder from a terminal and run
 ```sh
@@ -38,5 +57,6 @@ The following four notebooks were used:
 * LSTM: LSTM model for predicting hourly station-level bike demand
 
 ## Conclusions
+
 
 
