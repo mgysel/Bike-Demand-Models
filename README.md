@@ -1,6 +1,6 @@
 # COMP3901: Predicting Station-level Hourly Bike-Sharing Demand Using XGBoost and LSTM
 
-This project applies XGBoost and Long Short-Term Memory (LSTM) to the problem of predicting station-level hourly bike-sharing demand. 
+This project applies XGBoost and Long Short-Term Memory (LSTM) to the problem of predicting station-level hourly bike-sharing demand. An in-depth project discussion can be found in `COMP3901 Research Report.pdf` and `COMP3901 Presentation.pdf`.
 
 ## Introduction
 
